@@ -32,14 +32,9 @@ My main focus is developing practical Data Analytics skills and learning how to 
 
 ## 🛠️ Skills & Technologies
 
-**Currently Learned**
 - Microsoft Excel
-
-**Currently Learning**
 - SQL
 - Database Fundamentals
-
-**Future Learning Goals**
 - Power BI
 - Python
 - Data Science
